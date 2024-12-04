@@ -1,0 +1,112 @@
+{
+  "produtos": [
+    {
+      "id": "A120XB2",
+      "nome": "Cadeira Padrão 2E-AB",
+      "valor": 120,
+      "imagem": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQex1VrDynVgrBlMb8_FeO-Y-UnBtsife8M9D_A3qqAzjf882-Q"
+    },
+    {
+      "id": "A120XB3",
+      "nome": "Cadeira  Padrão 3E-AB",
+      "valor": 250,
+      "imagem": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSRp22mbImqL2qzv7kVEDyK2jLnByARZTvPf7-NixN_qXVWdsHN4RLwtvUyAqKGmJzvB8bZpSxBpAZbkOqMKCG9BiwxFa8j7o7L_zU376Ja5jL-lD_hHUrwZg&usqp=CAE"
+    },
+    {
+      "id": "A120XB4",
+      "nome": "Cadeira  Padrão 4E-AB",
+      "valor": 350,
+	 "imagem": "https://www.comfy.com.br/media/catalog/product/cache/be00e66d6037499d540c5ce12579d442/c/a/cadeira_gamer_xperience_combat_terracota_base_girato_ria_1.webp"
+    },
+    {
+      "id": "A120XB5",
+      "nome": "Cadeira  Padrão 5E-AB",
+      "valor": 450,
+      "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSkbXjqJPQuXuldWS4fmn-2hj4HALJoG1_xyk3ypIAYRvFoApx9wAhn91KJ2XfANmb8PTV8jGOEHJzWWpp-2F6yfnaBHmwzostMmMTwM4vySUE9mIx_CeytP2yCvYsvnA1g7EV75lQ&usqp=CAc"
+    },
+    {
+      "id": "A120XB6",
+      "nome": "Cadeira  Padrão 6E-AB",
+      "valor": 550,
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRyDOOz2Io4XMMmUszGJHFlLmorwKF0NnvjktDzmH0hUODV1cet-NU9xBXA3XBFk2u5a_OcI-qAvd-EZQ4Drvd6Iis_CAe4nv98Bj3zt7aipaYw9EmYZQ6XnbTS8WjYvldeerZtDA&usqp=CAc"
+    },
+    {
+      "id": "A120XB7",
+      "nome": "Cadeira  Padrão 7E-AB",
+      "valor": "200",
+      "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTQgRBE5nmUgB85RFINLyEyzCYUrTXjRi0IVYI8-7w3bjBJx0zVYsLv_pcLlWwZVIyyyY-JCBZFoeIfORfJTac1IGUS_HFrRYO9BGc5INDoZjAZ4PLpB2ny&usqp=CAE"
+    },
+    {
+      "id": "A120XB8",
+      "nome": "Caidera  Padrão 8E-AB ",
+      "valor": "3424",
+      "imagem": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR6i6FnNkqbRlrbxnima2o8hbaB-d37_HNX17GCXL_6hVoVa2DfU9rdIdtYkhPPQ0JPKY_Xber4d-DWnI9RQY6KiQgi7R4ygBGQiK9p2N8&usqp=CAE"
+    },
+    {
+      "id": "A120XB9",
+      "nome": "Cadeira  Padrão 9E-AB",
+      "valor": "300",
+      "imagem": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRlQWBnIP04bnmLqFddinA6SheH1NSJE49JCSkeyy1K7Ol0YICZygoEf0rt8vSMBcXpkcSiaFLnQEFoGWMoIymbBnvxzQWTZ5lpof3w5cACKKtY0Dvu-Of4&usqp=CAE"
+    },
+    {
+      "id": "A120XC0",
+      "nome": "Cadeira  Padrão 10-AB",
+      "valor": "350",
+      "imagem": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSAFW60pRZVHOY4Gv4Tno-V7FBrJRObbibXZ__fB1mEE1gRSG2N6mTfq4355U0I8dqwuKD00q3CzEzkGkQ99u5A1LmN6gd6slFwvOKDxEEz6vK8VmsHdIa2cw&usqp=CAE"
+    },
+    {
+      "id": "A120XC1",
+      "nome": "Cadeira  Padrão 11-AB",
+      "valor": "350",
+      "imagem": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSm3CQvtuQUGYtMOKAKr8Nuo7GT2fNhSjQyCNab13Gg5c6PPGDOP1j82FyLbWsOrCoyx-XEMLMVMVG2I3vB_UQfkRddU26SKM46a9jGElA2oVVsOgEjq9KH&usqp=CAE"
+    },
+    {
+      "id": "A120XC2",
+      "nome": "Cadeira  Padrão 12-AB",
+      "valor": "490",
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSX1iz879gyrEpkq60fQmGSR0x3X2Z9wYjqYiwdI9OLFExD9C-az8VhY_UiGOtzPAk_OnhEsctfc_7_lKZpBEiWMLLA3uTjnIio6MPVs2hzhNayacjH0zeN&usqp=CAE"
+    },
+    {
+      "id": "A120XC3",
+      "nome": "Cadeira  Padrão 13-AB",
+      "valor": "500",
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTtO9Kl0RsGwb2xGv0vINZeOHNLN72SujiQJjvCUN99i635ekozpkQ8HzbEoYq92MGBrGRMU7I9lFiZU-Uo1zBtrnLA31gFEzBBk-HIFmIHcAzZhDB0ktTB&usqp=CAE"
+    },
+    {
+      "id": "A120XC4",
+      "nome": "Cadeira  Padrão 14-AB",
+      "valor": 123,
+      "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQensfW67n7EBasTRmw0SKQPsLsTJvimmfv_87lofeh8WRK9PCUXRHjTdgLZS4fkomWTWEkBOp_3Mh-xTB9dXo6An6UdTa5_bGprP7RFJO0b8ID3ZoOpj8oTA&usqp=CAE"
+    },
+    {
+      "id": "A120XC5",
+      "nome": "Cadeira  Padrão 15-AB",
+      "valor": 123,
+      "imagem": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1e8ndKLiTiYvUu5IBdi4Oyj1Uf5wLStVUP3FJyu1yRQm9nly4bwuV8dx2HmF2I_jNwbV_ojeGc8rWzfQb3MmQ80h6SCFhOfZAvB_hFT-KlIfV-IYaRWUZ&usqp=CAE"
+    },
+    {
+      "id": "A120XC6",
+      "nome": "Cadeira  Padrão 16-AB",
+      "valor": 123,
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSLbrz134CDRGL32-aXRAE9HuRWo-LiO6SyHWQBZ3sXHfgZUUdyYb8e7tEPzn7hTssBkECPZx_V9Mm63Ez5pZ8HN3X2g-k_xQJE6ecvg8rDqXluzdFY4rTMrQ&usqp=CAE"
+    },
+    {
+      "id": "A120XC7",
+      "nome": "Cadeira  Padrão 17-AB",
+      "valor": 12,
+     "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRTY4I6MnoTjbBnxkshEr3nfsZS_Xmt_SEj45pCNmoJOGTsaTq8buhNkMhNjfZTm30qbV6FP2qD9QX8Lbr23J2pB5HpRV3rikgZOG0tsfN57XMEpFI_SCkgzQ&usqp=CAE"
+    },
+    {
+      "id": "8e53",
+      "nome": "Cadeira Padrão Ergonômica",
+      "valor": 452,
+      "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTCZMW6BB7avvfVoYr0wCraf8GdEDxST8DQld_1wgzjIu0OZ975cGlFPlCNKEziZJyeBI8yVXYBfOByVGJ8hcbN5xdhvmFPy0rmERipaOfbFroSU3WGDtzP&usqp=CAE"
+    },
+    {
+      "id": "6712",
+      "nome": "teste",
+      "valor": 123,
+      "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTvMDNdm0vJaZNVlhw0fKVoUzzRsBtnKLwtqfX0jiqIZt4nPe04BXuVBPevAczfplcjsuPmJN9u6dFZ2QdmUBvqcZ4cNtp8bEudYtFqzRelngX7o4zMDB1Q2w&usqp=CAE"
+    }
+  ]
+}
